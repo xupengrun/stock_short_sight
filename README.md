@@ -1,2 +1,3 @@
 # stock_short_sight
-A股短线选股系统
+A 股短线选股系统
+A股短线选股系统 v0.1
